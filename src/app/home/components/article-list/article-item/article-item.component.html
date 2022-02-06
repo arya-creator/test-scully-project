@@ -1,0 +1,20 @@
+<div
+  class="card my-card"
+  *ngIf="article.route !== '/'"
+  [routerLink]="[article.route]"
+>
+  <img
+    class="card-img-top img-fluid img-responsive my-image"
+    alt="Card image cap"
+        [src]="article.featured_image"
+  />
+  <div class="card-body">
+    <h5 class="card-title">{{ article.title }}</h5>
+    <div>
+      <p class="card-text">{{ article.sub_title }}</p>
+    </div>
+  </div>
+</div>
+
+
+

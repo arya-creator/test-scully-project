@@ -3,9 +3,9 @@ appPort: 1864
 staticPort: 1668
 reloadPort: 2667
 hostName: localhost
-projectName: test-scully-project
-homeFolder: C:\Users\ad358\workspace\test-scully-project\test-scully-project
-distFolder: dist/test-scully-project
-outDir: C:\Users\ad358\workspace\test-scully-project\test-scully-project\dist\static
+projectName: decentral-school
+homeFolder: C:\Users\ad358\workspace\DecentralSchoolRepo\decentral-school
+distFolder: dist/decentral-school
+outDir: C:\Users\ad358\workspace\DecentralSchoolRepo\decentral-school\dist\static
 handle404: ''
 allowErrorCollect: false

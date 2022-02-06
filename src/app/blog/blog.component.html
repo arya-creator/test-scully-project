@@ -1,7 +1,21 @@
-<h3>ScullyIo content</h3>
-<hr>
 
-<!-- This is where Scully will inject the static HTML -->
-<scully-content></scully-content>
-<hr>
-<h4>End of content</h4>
+  <div class="scully-content-div">
+    <scully-content></scully-content>
+    <br />
+    <h2 style="margin-left: 20px; margin-bottom: 20px; color: #3f51bf; font-size: 30px;">
+      You might be also interested in...
+    </h2>
+    <div class="cards-div">
+      <div class="cards-list" role="list">
+        <app-other-posts
+          [hidden]="!showOtherPosts"
+          *ngFor="let p of relatedPosts"
+          [otherPost]="p"
+        ></app-other-posts>
+      </div>
+    </div>
+
+</div>
+
+
+

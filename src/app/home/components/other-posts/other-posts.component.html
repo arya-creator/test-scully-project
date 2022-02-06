@@ -1,0 +1,17 @@
+<div
+  class="card my-card"
+  *ngIf="otherPost.route !== '/'"
+  [routerLink]="[otherPost.route]"
+>
+  <img
+    class="card-img-top img-fluid img-responsive my-image"
+    [src]="otherPost.featured_image"
+    alt="Card image cap"
+  />
+  <div class="card-body">
+    <h5 class="card-title">{{ otherPost.title }}</h5>
+    <div>
+      <p class="card-text">{{ otherPost.sub_title }}</p>
+    </div>
+  </div>
+</div>
