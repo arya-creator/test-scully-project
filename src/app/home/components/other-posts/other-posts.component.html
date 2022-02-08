@@ -1,4 +1,4 @@
-<div
+<!-- <div
   class="card my-card"
   *ngIf="otherPost.route !== '/'"
   [routerLink]="[otherPost.route]"
@@ -14,4 +14,20 @@
       <p class="card-text">{{ otherPost.sub_title }}</p>
     </div>
   </div>
-</div>
+</div> -->
+
+
+<mat-card class="example-card" *ngIf="otherPost.route !== '/'"
+ [routerLink]="[otherPost.route]">
+  <mat-card-header>
+    <div mat-card-avatar class="example-header-image"></div>
+    <mat-card-title>{{otherPost.title}}</mat-card-title>
+    <!-- <mat-card-subtitle>{{otherPost.sub_title}}</mat-card-subtitle> -->
+  </mat-card-header>
+  <img mat-card-image [src]="otherPost.featured_image" class ="img-card" alt="">
+  <mat-card-content>
+    <p>
+      {{otherPost.sub_title}}
+    </p>
+  </mat-card-content>
+</mat-card>

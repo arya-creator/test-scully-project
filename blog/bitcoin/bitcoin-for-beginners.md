@@ -8,9 +8,9 @@ related_posts_routes:
     "/crypto/ico-for-beginners",
   ]
 published: true
-featured_image: "/assets/images/bitcoin-btc-logo.png"
+featured_image: "/assets/images/canva/bitcoin.png"
 sub_title: Quick guide to the largest Cryptocurrency in terms of Market Capital - also termed as "digital gold"
-
+tile_order: 1
 seoTitle: Bitcoin for Beginners
 seoDescription: Bitcoin for beginners - Details on what is Bitcoin, Digital Gold. Details about FIAT Money and purpose of Bitcoin and Cryptocurrency
 seoKeywords: Bitcoin, BTC, Sats, Satoshi, Digital Gold, FIAT Money, Satoshi Nakamoto, Crypto, Cryptocurrency, Blockchain, Decentralization

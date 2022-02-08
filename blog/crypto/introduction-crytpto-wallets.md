@@ -3,10 +3,10 @@ title:  Crypto and Web3 Wallets
 description: Complete guide to Crypto wallets
 related_posts_routes : ['/ethereum/ethereum-for-beginners', '/blockchain/blockchain-for-beginners', '/crypto/ico-for-beginners']
 published: true
-featured_image: '/assets/images/lottie/wallet.PNG'
+featured_image: '/assets/images/canva/wallet.png'
 sub_title : Learn about the different types of Crypto and Web 3 wallets
 
-
+tile_order: 5
 seoTitle : Crypto and Web3 wallets for Beginners
 seoDescription : Crypto Weallets for beginners - Paper Wallets, Hardware Wallets, Web Wallets, Mobile App Wallets, Custodial Wallet, Non Custodial Wallet, Hot Wallet, Cold Wallet.
 seoKeywords : Crypto Wallet, Web3 Wallet, Hardware Wallets, Paper Wallets, Web Wallets, Custodial Wellets, Non Custodial Wallets, Metamask, Exodus, Trezor Crypto Wallet, Ledger Wallet 
@@ -53,12 +53,12 @@ canonical_url : https://decentralschool.com/crypto/introduction-crypto-wallets
 
 </p><a href="https://trezor.io/" title="Trezor Hardware Cryto wallet">Trezor</a> and <a href="https://www.ledger.com/" title="Ledger">Ledger</a> are some of the widely used Hardware wallets. </p>
 
-<!-- <div class="img-post">
-<img src="/assets/images/Crypto-hardware-wallet.png" style="width:400px"/>
-</div> -->
 <div class="img-post">
-<lottie-player src="https://assets8.lottiefiles.com/packages/lf20_h0carcx9.json" background="transparent"  speed="1"  style="width: 400px; height: 400px;" autoplay loop></lottie-player>
+<img src="/assets/images/Crypto-hardware-wallet.png" style="width:400px; height:400px"/>
 </div>
+<!-- <div class="img-post">
+<lottie-player src="https://assets8.lottiefiles.com/packages/lf20_h0carcx9.json" background="transparent"  speed="1"  style="width: 400px; height: 400px;" autoplay loop></lottie-player>
+</div> -->
 
 <h2>Web Wallets</h2>
 

@@ -4,8 +4,9 @@ title: NFT for Beginners
 description: Non Fungible Tokens (NFT) for Beginners
 related_posts_routes : ['/bitcoin/bitcoin-for-beginners', '/blockchain/blockchain-for-beginners', '/crypto/ico-for-beginners']
 published: true
-featured_image: '/assets/images/lottie/NFT.PNG'
+featured_image: '/assets/images/canva/nft.png'
 sub_title : A Quick Introduction about NFTs (Non Fungible Tokens)
+tile_order: 6
 seoTitle : NFT Non Fungible Token for Beginners
 seoDescription : NFT for beginners - What are NFTs, What are Tokens and Tokenization. Difference between Fungible and Non Fungible. Use Cases for NFTs
 seoKeywords : NFT, Non Fungible Token, Fungible token, Crypto, Cryptocurrency, Blockchain, Decentralization

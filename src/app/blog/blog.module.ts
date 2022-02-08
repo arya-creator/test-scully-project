@@ -6,11 +6,13 @@ import { ArticleListComponent } from '../home/components/article-list/article-li
 import { OtherPostsComponent } from '../home/components/other-posts/other-posts.component';
 import { BlogRoutingModule } from './blog-routing.module';
 import { BlogComponent } from './blog.component';
+import {MatCardModule} from '@angular/material/card';
+import {MatButtonModule} from '@angular/material/button';
+
 
 @NgModule({
-  schemas:[CUSTOM_ELEMENTS_SCHEMA ],
-  declarations: [ArticleListComponent, ArticleItemComponent, BlogComponent, OtherPostsComponent],
+  declarations: [ArticleListComponent, ArticleItemComponent, BlogComponent, OtherPostsComponent, ],
 
-  imports: [CommonModule, BlogRoutingModule, ScullyLibModule],
+  imports: [CommonModule, BlogRoutingModule, ScullyLibModule, MatCardModule, MatButtonModule],
 })
 export class BlogModule {}

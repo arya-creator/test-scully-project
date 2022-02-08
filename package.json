@@ -37,6 +37,7 @@
     "@angular-devkit/build-angular": "~12.2.10",
     "@angular/cli": "~12.2.10",
     "@angular/compiler-cli": "~12.2.0",
+    "@notiz/scully-plugin-fouc": "^0.3.0",
     "@scullyio/scully-plugin-flash-prevention": "^2.1.9",
     "@types/jasmine": "~3.8.0",
     "@types/node": "^12.11.1",

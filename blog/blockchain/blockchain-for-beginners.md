@@ -11,7 +11,7 @@ related_posts_routes:
 published: true
 featured_image: "/assets/images/lottie/blockchain.PNG"
 sub_title: Lets start into the technology that started and is the foundation of the Crypto and Web3 Ecosystem
-
+tile_order: 4
 seoTitle: Blockchain for Beginners
 seoDescription: Blockchain for beginners - Details on what is Bitcoin, Digital Gold. Details about FIAT Money and purpose of Bitcoin and Cryptocurrency
 seoKeywords: Blockchain, Private Blockchain, Public Blockchain, Blockchain vs Database, Distributed Ledger, Cryptography, Satoshi Nakamoto, Crypto, Cryptocurrency, Blockchain, Decentralization

@@ -4,10 +4,9 @@ title: Ethereum for Beginners
 description: A detailed information related Ethereum
 related_posts_routes : ['/bitcoin/bitcoin-for-beginners', '/blockchain/blockchain-for-beginners', '/crypto/ico-for-beginners']
 published: true
-featured_image: '/assets/images/ethereum-eth-logo.png'
+featured_image: '/assets/images/canva/ethereum.png'
 sub_title : Beginners guide to the most popular and widely implemented Web3 Crypto project
-
-
+tile_order: 2
 seoTitle : Ethereum for Beginners
 seoDescription : Ethereum for beginners - Details on what is Ethereum, What is Ether. Difference between Bitcoin and Ethereum. Difference between Ethereum and Ethereum Classic
 seoKeywords : Ethereum, ETH, Vitalik Buterin, Ethereum vs Bitcoin, Ethereum vs Ethereum classic, Crypto, Cryptocurrency, Blockchain, Decentralization

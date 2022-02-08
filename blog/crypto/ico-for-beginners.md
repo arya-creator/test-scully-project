@@ -3,10 +3,10 @@ title:  Guide to ICO
 description: A detailed information related ICOs
 related_posts_routes : ['/bitcoin/bitcoin-for-beginners','/ethereum/ethereum-for-beginners', '/blockchain/blockchain-for-beginners']
 published: true
-featured_image: '/assets/images/lottie/ico.PNG'
+featured_image: '/assets/images/canva/ico.png'
 sub_title : Decentralized way of raising money which was used by many successful Crypto projects including Ethereum & Chainlink
 
-
+tile_order: 3
 seoTitle : ICOs for Beginners
 seoDescription : ICOs for Beginners - What are ICO's, how do ICO's work. Types of ICO tokens and participating in ICO's
 seoKeywords : Initial Coin Offering, ICO, ICO's, Crypto, Cryptocurrency, Blockchain, Decentralization
